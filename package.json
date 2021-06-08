@@ -17,6 +17,7 @@
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
+    "enzyme-to-json": "3.0.1",
     "global": "^4.4.0",
     "live-server": "^1.2.0",
     "node-sass-install": "^1.0.2",
@@ -30,7 +31,7 @@
   },
   "devDependencies": {
     "node-sass": "5.0.0",
-    "sass": "^1.29.0",
+    "sass": "^1.34.1",
     "sass-loader": "6.0.6",
     "webpack": "4.32.2",
     "webpack-cli": "3.3.2"
